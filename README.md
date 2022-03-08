@@ -48,12 +48,6 @@ Since the loan was rejected, there is no transactional history of those applican
 #### Step 5: Results   
 
 
-### Contributors
-
-- Muniaraja Murugan(Group Facilitator)
-- Vivek Trivedi(Team Member)
-
-
 ## Recommendations
 
 - Applicants who are Self-Employed and less than 1 year of experience are more probable of Likely to be Defaulter
@@ -62,7 +56,11 @@ Since the loan was rejected, there is no transactional history of those applican
 - Applicants with loan purpose as “credit card payment” or “debt consolidation” can be considered as high-risk applicants.
 - Increase in Loan Amount is increasing the probability that person will default (increasing with highest at 25000 & above bracket)
 - Increase in interest rate is increasing the probability that person will default (increasing with highest at 15% & above bracket)
-- Low-income rage – People in the lower income bucket are more defaulters
+- Low-income range – People in the lower income bucket are more defaulters
 
+### Contributors
+
+- Muniaraja Murugan(Group Facilitator)
+- Vivek Trivedi(Team Member)
 
 ##### This EDA assignment was done as part of "MS(Master of Science)" in Machine Learning and AI - IIIT,Bangalore & Liverpool John Moores University.
