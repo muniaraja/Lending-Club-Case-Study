@@ -48,7 +48,7 @@ Since the loan was rejected, there is no transactional history of those applican
 #### Step 5: Results   
 
 
-## Recommendations
+## Conclusions from the EDA --> Recommendations
 
 - Applicants who are Self-Employed and less than 1 year of experience are more probable of Likely to be Defaulter
 - Applicants with loan purpose ‘Repair’ is having higher number of unsuccessful payments on time.
